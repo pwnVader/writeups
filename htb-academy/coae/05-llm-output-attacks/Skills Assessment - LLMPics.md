@@ -1,4 +1,3 @@
-# Skills Assessment - LLMPics
 
 ## Scenario
 

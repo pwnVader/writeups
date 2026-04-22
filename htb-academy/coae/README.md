@@ -4,21 +4,19 @@ Path: **AI Red Teamer** | HackTheBox Academy
 
 ## Módulos
 
-| # | Módulo | Estado |
-|---|--------|--------|
-| 01 | [AI/ML Fundamentals](./01-ai-ml-fundamentals/) | ⬜ |
-| 02 | [Hands-on ML Development](./02-hands-on-ml-development/) | ⬜ |
-| 03 | [AI Threat Landscape](./03-ai-threat-landscape/) | ⬜ |
-| 04 | [Prompt Injection & Jailbreaking](./04-prompt-injection-jailbreaking/) | ⬜ |
-| 05 | [LLM Output Exploitation](./05-llm-output-exploitation/) | ⬜ |
-| 06 | [Data Poisoning](./06-data-poisoning/) | ⬜ |
-| 07 | [AI Application & System Attacks](./07-ai-application-system-attacks/) | ⬜ |
-| 08 | [Adversarial Evasion I](./08-adversarial-evasion-1/) | ⬜ |
-| 09 | [Adversarial Evasion II](./09-adversarial-evasion-2/) | ⬜ |
-| 10 | [Adversarial Evasion III](./10-adversarial-evasion-3/) | ⬜ |
-| 11 | [AI Privacy & Defense](./11-ai-privacy-defense/) | ⬜ |
-| 12 | [AI Supply Chain](./12-ai-supply-chain/) | ⬜ |
+| #   | Módulo                                                                             | Estado |
+| --- | ---------------------------------------------------------------------------------- | ------ |
+| 01  | [Fundamentals of AI](./01-fundamentals-of-ai/)                                     | ✅      |
+| 02  | [Applications of AI in InfoSec](./02-applications-of-ai-in-infosec/)               | ✅      |
+| 03  | [Introduction to Red Teaming AI](./03-introduction-to-red-teaming-ai/)             | ✅      |
+| 04  | [Prompt Injection Attacks](./04-prompt-injection-attacks/)                         | ✅      |
+| 05  | [LLM Output Attacks](./05-llm-output-attacks/)                                     | ✅      |
+| 06  | [AI Data Attacks](./06-ai-data-attacks/)                                           | ✅      |
+| 07  | [Attacking AI Application and Systems](./07-attacking-ai-application-and-systems/) | ⬜      |
+| 08  | [AI Evasion Foundations](./08-ai-evasion-foundatios/)                              | ⬜      |
+| 09  | [AI Evasion First Order Attacks](./9-ai-evasion-first-order-attacks/)              | ⬜      |
+| 10  | [AI Evasion Sparsity Attacks](./10-ai-evasion-sparsity-attacks/)                   | ⬜      |
+| 11  | [AI Privacy](./11-ai-privacy/)                                                     | ⬜      |
+| 12  | [AI Defense](./12-ai-defense/)                                                     | ⬜      |
 
 ---
-
-> Actualiza el estado con ✅ cuando completes cada módulo.
