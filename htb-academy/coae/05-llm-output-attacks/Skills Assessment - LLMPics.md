@@ -1,4 +1,13 @@
 
+
+---
+title: "Skills Assessment - LLMPics"
+platform: "HackTheBox"
+os: "Linux"
+tags: ["LLM Output Attack", "LLM", "AI"]
+---
+
+
 ## Scenario
 
 Security assessment of LLMPics website. Provided credentials: `htb-stdnt:4c4demy_Studen7`. Objective: obtain the flag.
